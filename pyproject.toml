@@ -1,0 +1,16 @@
+# pyproject.toml
+[project]
+name = "crowdwisdom-crypto-agent"
+version = "0.1.0"
+description = "Hermes-powered Multi-Agent Prediction and Arbitrage system for Polymarket and Kalshi."
+requires-python = ">=3.11"
+dependencies = [
+    "hermes-agent>=0.2.0",
+    "apify-client>=1.8.0",
+    "pandas>=2.2.0",
+    "numpy>=1.26.0",
+    "pydantic>=2.7.0",
+    "python-dotenv>=1.0.1",
+    "requests>=2.31.0",
+    "torch>=2.2.0",
+]

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: crowdwisdom-crypto-agent
+Version: 0.1.0
+Summary: Hermes-powered Multi-Agent Prediction and Arbitrage system for Polymarket and Kalshi.
+Requires-Python: >=3.11
+Requires-Dist: hermes-agent>=0.2.0
+Requires-Dist: apify-client>=1.8.0
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pydantic>=2.7.0
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: requests>=2.31.0
+Requires-Dist: torch>=2.2.0
