@@ -1,0 +1,5 @@
+.venv/
+.env
+agent_execution.log
+__pycache__/
+*.pyc
